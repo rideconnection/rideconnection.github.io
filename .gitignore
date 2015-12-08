@@ -1,0 +1,14 @@
+rm_export.csv
+*.swp
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+tmp/*
+*~
+.DS_store
+tags
+
+config/secrets.yml
+config/database.yml
+config/app_config.yml
